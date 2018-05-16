@@ -1,6 +1,6 @@
 package com.ericknunes.ericknunes;
 
-import com.ericknunes.ericknunes.web.i18n.I18NService;
+import com.ericknunes.web.i18n.I18NService;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
